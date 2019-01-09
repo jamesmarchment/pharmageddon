@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="9">
+            <File firstVisibleLine="312" xOffset="0" scrollWidth="1" startPos="12906" endPos="12913" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\safetyipsum v2\safety.php" backupFilePath="" originalFileLastModifTimestamp="1465351499" />
+            <File firstVisibleLine="45" xOffset="0" scrollWidth="35936" startPos="10" endPos="1856" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\safetyipsum v2\tagline.php" backupFilePath="" originalFileLastModifTimestamp="1463344120" />
+            <File firstVisibleLine="1109" xOffset="0" scrollWidth="35936" startPos="21093" endPos="21105" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\safetyipsum v2\arrays.php" backupFilePath="" originalFileLastModifTimestamp="1463353381" />
+            <File firstVisibleLine="87" xOffset="0" scrollWidth="35936" startPos="5799" endPos="5799" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\safetyipsum v2\index.php" backupFilePath="" originalFileLastModifTimestamp="1463423091" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="16360" startPos="1023" endPos="1023" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\safetyipsum v2\naming.php" backupFilePath="" originalFileLastModifTimestamp="1463417813" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="35936" startPos="400" endPos="400" selMode="0" lang="CSS" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\css\pharmageddon.css" backupFilePath="" originalFileLastModifTimestamp="1499018560" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="35936" startPos="380" endPos="380" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\index.php" backupFilePath="" originalFileLastModifTimestamp="1499829797" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="35936" startPos="962" endPos="962" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\includes\header.php" backupFilePath="" originalFileLastModifTimestamp="1498957421" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="35936" startPos="293" endPos="293" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\includes\footer.php" backupFilePath="" originalFileLastModifTimestamp="1498945475" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1560" startPos="1464" endPos="1464" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\includes\functions.php" backupFilePath="" originalFileLastModifTimestamp="1499829985" />
+            <File firstVisibleLine="126" xOffset="0" scrollWidth="35936" startPos="8798" endPos="8798" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\localhost\pharmageddon\includes\arrays.php" backupFilePath="" originalFileLastModifTimestamp="1499829755" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
