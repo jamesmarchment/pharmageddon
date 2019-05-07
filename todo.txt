@@ -1,3 +1,14 @@
+May 7th
+ - add pills (classes in CSS already, capsule/square di + round/oval mono, do the vice versas next) CHECK
+ - put pills in header using CSS positioning, replace header image with many many divs
+ - activate throwable JS on pills so they fall at load CHECK
+ - use "wall" class to cover main content
+ - use JS to destroy pills that fall out of frame and create new pills at top
+ - use CSS filter: blur(px) and transitions to make them blur really nicely as they vanish, maybe some vanish early, maybe they can be dragged to a vanish zone
+ - I'm thinking some kind of measure of distance from the top, at 50% they begin to blur, by 80% they're blurred to around 7px and then they lose opacity... the throwables have a "top" attribute, so maybe the JS gets height of the whole document and calcs the distance divided by that... 
+
+
+
 Dec 6th
 
 - just added some more disease states and got the tagline working
