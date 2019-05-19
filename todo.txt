@@ -1,3 +1,21 @@
+May 19
+- figure out how to make sloped wall, I'm not sure box2d can actually do this -- IT CANNOT
+- figure out how to teleport pills to top, or just allow them to stay on screen 
+issue: limited objects
+- it blows up on the 25th - 30th pill creation, we get "pair is undefined" in throwable line 167 (IF USING UPDATED BOX2D CODE)
+- if using original Box2d, it gives "i is undefined" in.... somewhere in the minified version (.. just noticed I was using var i in pharmageddon.js... wonder if that's it)
+- this happens even if objects are cleared. BTW, clearing using .remove() stops all elements entirely.  .detach() works better, but then we have this problem.
+- throwable.js could be rewritten to depend on planck.js instead of Box2d (last updated one month ago, rather than seven years) but that's 600+ lines of code.
+- resizing the window messes up placement of absolute objects, oh well
+
+- all I've been doing is the javascript, I'm not even working on the text anymore
+- kind of want to rewrite the, uh, most of the text stuff to use javascript
+- it would be neat to change the text without refreshing the page
+
+
+
+
+
 May 7th
  - add pills (classes in CSS already, capsule/square di + round/oval mono, do the vice versas next) CHECK
  - put pills in header using CSS positioning, replace header image with many many divs
