@@ -1,3 +1,11 @@
+May 25 update
+- pills don't really teleport, I don't know what to do except just start with a handful and leave them there
+- limited object issue dealt with by adding fewer pills to the scene and starting with a grid at 30-60% width; this works fine on my own desktop, unknown about other sizes (prob not good)
+- multicolor added
+- thinking now about refining text a little, especially adverse/contra which are basically empty, safetyipsum had more going on here
+- also thinking about overhauling the PHP basis and making it able to replace text without refresh, using JS (unknown how this would affect footer placement and throwable area)
+
+
 May 19
 - figure out how to make sloped wall, I'm not sure box2d can actually do this -- IT CANNOT
 - figure out how to teleport pills to top, or just allow them to stay on screen 
