@@ -1,3 +1,15 @@
+January 9th, 2019
+
+- KNOWN ISSUES: pills freeze at a consistent spot roughly 6000px from top of page (EDIT: found out why, it's line 64 in jquery.throwable). Solution: set a maximum of 100 of each criteria. 
+- FIX: Made edits to jquery.throwable.js, should probably fork it if it's on GH
+
+June 5 2018
+- It's not mobile responsive at all -- javascript scale fix here: https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/ 
+- Not sure how to solve for the pills at the top on smaller screens, they're just right at 1920 px width... there are not containers around them and throwable makes them absolute positioned within the parent object
+- Needs a control panel to refresh and change lengths, right now there is none CHECK
+- Still with that text update, I didn't really get far earlier
+
+
 May 25 update
 - pills don't really teleport, I don't know what to do except just start with a handful and leave them there
 - limited object issue dealt with by adding fewer pills to the scene and starting with a grid at 30-60% width; this works fine on my own desktop, unknown about other sizes (prob not good)
@@ -24,7 +36,7 @@ issue: limited objects
 
 
 
-May 7th
+May 7th 2018
  - add pills (classes in CSS already, capsule/square di + round/oval mono, do the vice versas next) CHECK
  - put pills in header using CSS positioning, replace header image with many many divs
  - activate throwable JS on pills so they fall at load CHECK
@@ -35,7 +47,7 @@ May 7th
 
 
 
-Dec 6th
+Dec 6th 2017
 
 - just added some more disease states and got the tagline working
 - diseases array kinda ends, might have a misplaced comma
